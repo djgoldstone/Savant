@@ -1,7 +1,7 @@
 {
   "name": "Savant",
   "version": "1.0.0",
-  "description": "",
+  "description": "[Visit Savant deployed page]()",
   "main": "server.js",
   "dependencies": {
     "aws-sdk": "^2.493.0",
